@@ -1,0 +1,14 @@
+{
+  "name": "magicui-vue",
+  "version": "0.1.0",
+  "description": "ui library for design engineers",
+  "type": "module",
+  "scripts": {
+    "dev": "pnpm --filter www dev",
+    "build": "pnpm --filter www build",
+    "preview": "pnpm --filter www preview"
+  },
+  "keywords": [],
+  "author": "Emmanuel Raymond",
+  "license": "ISC"
+}
